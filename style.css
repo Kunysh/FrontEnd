@@ -213,8 +213,17 @@ left:736px;
 	top:1156px;
 	left: 919px;
 	border: 1px solid #ffffff;
+	text-align:center
 }
 
+.pe-7s-play:before 
+{
+	font-family:Pe-icon-7-stroke;
+color:  #ffffff;
+font-size: 48px;/* Przybliżenie (wynika z podstawienia czcionki) */
+line-height: 82px;/* Przybliżenie (wynika z podstawienia czcionki) */
+text-align: center;
+}
 
 
 #imgbar
